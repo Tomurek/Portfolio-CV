@@ -259,6 +259,18 @@ body {
 	font-size: 0.8rem;
 	margin: 5px 0;
 }
+.timeline-block li {
+	font-size: 0.8rem;
+	list-style-position: inside;
+	margin: 5px 0;
+}
+.timeline-block ul {
+	padding-left: 15px;
+	margin-top: 0;
+}
+.timeline-block h5 {
+	margin: 5px 0;
+}
 .timeline-block time {
 	font-size: 0.8rem;
 	color: var(--gray-dark-2);
