@@ -4,7 +4,7 @@
 Strona internetowa prezentująca moje portfolio, umiejętności oraz wszystkie zdobyte certyfikaty. Projekt w pełni responsywny, z nowoczesnym wyglądem i interaktywną galerią.
 
 ## Demo
-### [Zobacz online](https://tomurek.github.io/Portfolio-CV/)
+# [Zobacz online](https://tomurek.github.io/Portfolio-CV/)
 
 ---
 
